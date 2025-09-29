@@ -1,2 +1,15 @@
-# SmartContract-Audit-Log
-SmartContract-Audit-Log
+# DeFi Security & Exploit Analysis (DeFi 安全与漏洞分析)
+
+本仓库用于记录和分析 DeFi 协议的历史攻击案例、智能合约审计报告，并研究防御机制。
+
+本仓库旨在：
+1.  追踪新的漏洞类型（如闪电贷攻击、重入漏洞）。
+2.  记录安全工具和形式化验证的最佳实践。
+
+---
+
+## 🛡️ 查看每日安全审计笔记
+
+所有最新的漏洞分析和防御策略都记录在以下文件中：
+
+**👉 点击这里查看 [LINKS.md](./LINKS.md)**
